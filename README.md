@@ -3,4 +3,4 @@
 
 Начальный экран
 
-[Image alt](https://github.com/Zakaraya/GatchinaGuideApp/raw/master/Photo/Рисунок1.png)
+[Image alt](https://github.com/Zakaraya/GatchinaGuideApp/blob/master/Photo/Рисунок1.png)
