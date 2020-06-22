@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471369003516",
+    "firebase_url": "https://gatchinaguidemaps.firebaseio.com",
+    "project_id": "gatchinaguidemaps",
+    "storage_bucket": "gatchinaguidemaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471369003516:android:0ad58e7de02fddd06c0279",
+        "android_client_info": {
+          "package_name": "com.robotemplates.testguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471369003516-7n6vi3uqlcnc8a6ctod5gsauqb0933qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robotemplates.testguide",
+            "certificate_hash": "9bcd6e6c953b766278d0ad704fb502dbe6f82134"
+          }
+        },
+        {
+          "client_id": "471369003516-1fi5eqrjh9hg72m0uqqkjppahktcokvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmpJ7P-7f2fBvYLmpkJ8P5s7QLMIw4b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471369003516-1fi5eqrjh9hg72m0uqqkjppahktcokvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
